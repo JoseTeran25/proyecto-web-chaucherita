@@ -1,6 +1,7 @@
 /build/
 /target/
 /build/
+.project
 .metadata
 tmp/
 local.properties
